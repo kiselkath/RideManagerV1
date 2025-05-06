@@ -1,4 +1,4 @@
-# RideManagerPro - Version 1
+# RideManagerPro - Version 1 (Not finished)
 Mastering Stack, Queue, OOP, Collections, Maven, and JUnit 5
 Real-Time Systems with Clean Java Architecture
 ---
@@ -14,3 +14,7 @@ Each module must follow:
 - Proper Exception Handling
 - JUnit 5 for testing
 ---
+
+What left to do:
+- Finish Ride manager app
+- Write tests
